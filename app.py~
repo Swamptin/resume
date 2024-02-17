@@ -164,4 +164,4 @@ st.write("#")
 st.subheader("Certificates")
 st.write("---")
 for line in CERTIFICATES:
-    st.write(f"{line}")
+    st.write(f"[{line}]")
