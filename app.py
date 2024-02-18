@@ -21,11 +21,11 @@ EMAIL = "hello@eoghanobrien.ie"
 SOCIAL_MEDIA = {
         "LinkedIn": "https://linkedin.com",
         "Github": "https://github.com/Swamptin",
-        "Mastodon": "https://freeradical.zone",
+        "Mastodon": "https://freeradical.zone/@swamptin ",
 }
 PROJECTS = {
         "A command-line TODO app written in Rust": "https://github.com/Swamptin/rust_todo_cli_tool/",
-        "A website I wrote for my wedding in PHP": "swamptin.ie/wedding",
+        "A website I wrote for my wedding in PHP": "http://swamptin.ie/wedding",
         "An image checker app written in Python3": "https://github.com/Swamptin/ImageChecker"
 }
 CERTIFICATES = {
