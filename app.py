@@ -19,9 +19,9 @@ Developer and Support Engineer with an interest in Information Security.
 """
 EMAIL = "hello@eoghanobrien.ie"
 SOCIAL_MEDIA = {
-        "LinkedIn": "https://linkedin.com",
+        "LinkedIn": "https://www.linkedin.com/in/eoghan-o-brien-41403911",
         "Github": "https://github.com/Swamptin",
-        "Mastodon": "https://freeradical.zone/@swamptin ",
+        "Mastodon": "https://freeradical.zone/@swamptin",
 }
 PROJECTS = {
         "A command-line TODO app written in Rust": "https://github.com/Swamptin/rust_todo_cli_tool/",
