@@ -79,6 +79,13 @@ st.write(
     """
     )
 
+# --- Certs ---
+st.write("#")
+st.subheader("Certificates")
+st.write("---")
+for line in CERTIFICATES:
+    st.write(f"{line}")
+
 # --- Skills ---
 st.write("#")
 st.subheader("Technologies")
@@ -159,9 +166,3 @@ st.write("---")
 for project, link in PROJECTS.items():
     st.write(f"[{project}]({link})")
 
-# --- Certs ---
-st.write("#")
-st.subheader("Certificates")
-st.write("---")
-for line in CERTIFICATES:
-    st.write(f"{line}")
