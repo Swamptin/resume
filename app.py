@@ -140,7 +140,7 @@ st.write(
       address assigned at build. Resolved existing issues with the process which reduced
       the number of boards failing and increased throughput.
     - Built a number of scripts to automate the deployment of Windows 2012/2016 VM 
-      servers as part of the test infrastructure. This reduced deployment times
+      network as part of the test infrastructure. This reduced deployment times
       for the network from 3 days to less than day.
       """
       )
